@@ -15,7 +15,8 @@ Relax! If you're clueless, watch this recent introductory session by us - [Panel
 
 Under this initiative Hello FOSS, we bring to you various projects from diverse fields which you can contribute to and start your open source journey. To begin with, listed below are the projects that are being launched. We will soon be adding more projects to help you get started easily with projects that match your skills. Choose your field of interest and get started!
 
-1. [BashForGood](https://github.com/wncc/helloFOSS-21-BashForGood) : Personal Encryption, Automating File Downloads and much more!
+1. [BashForGood](https://github.com/wncc/helloFOSS-21-BashForGood) : Using UNIX's own *Bourne again shell* for Personal Encryption, Automating File Downloads, Github Push-Pull and much more!
+2. [Contributive Programming](https://github.com/wncc/helloFOSS-21-ContributiveProgramming) : A different definition to CP. Learn, Contrive and code solutions to problems towards a noble cause. The topics range from Minimum Stack, Number Theory and Dynamic Programming to Disjoint Set Union, Lowest Common Ancestor and Sweep-Line Algorithms.
 
 ## Guidelines
 
