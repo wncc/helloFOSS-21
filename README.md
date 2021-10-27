@@ -17,6 +17,8 @@ Under this initiative Hello FOSS, we bring to you various projects from diverse 
 
 1. [BashForGood](https://github.com/wncc/helloFOSS-21-BashForGood) : Using UNIX's own *Bourne again shell* for Personal Encryption, Automating File Downloads, Github Push-Pull and much more!
 2. [Contributive Programming](https://github.com/wncc/helloFOSS-21-ContributiveProgramming) : A different definition to CP. Learn, Contrive and code solutions to problems towards a noble cause. The topics range from Minimum Stack, Number Theory and Dynamic Programming to Disjoint Set Union, Lowest Common Ancestor and Sweep-Line Algorithms.
+3. [LifeAudit: Simulation of Life in an online semester](https://github.com/wncc/helloFOSS-21-LifeAudit) : Online semeseter has been sucking the joy out of our college life since the past 1-2 years for many of us. We all must have felt depressed, demotivated many times during this period. This simulation is an attempt to analyze if we managed our time well, set better priorities could we utilize this any better? Its an interesting way to explore and see what works best for us even in such a situation.
+4. [Introduction to Machine Learning](https://github.com/wncc/helloFOSS-21-Intro-to-ML) : Various small projects to introduce you to the exciting domain of Machine Learning. Absolutely no prerequisites required!! Learn from the slides shared in the repository and contribute! 
 
 ## Guidelines
 
